@@ -1,16 +1,69 @@
-## Hi there 👋
+# Apif Nofal
 
-<!--
-**apifNf/apifNf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **A-Tech Labs**.
 
-Here are some ideas to get you started:
+Building AI Systems, AI Visibility & intelligent automation for modern businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I design and build AI-powered digital products, intelligent automation systems, and modern websites that help businesses grow through technology.
+
+My current focus:
+
+- Building A-Tech Labs
+- Developing RantauFlow
+- AI Visibility (GEO)
+- AI Systems
+- Product Engineering
+
+---
+
+## Featured Projects
+
+### A-Tech Labs
+
+AI business systems and automation tools for modern founders.
+
+### RantauFlow
+
+Expense management platform for Indonesian overseas workers.
+
+---
+
+## Current Focus
+
+- AI Systems
+- AI Visibility
+- Generative Engine Optimization (GEO)
+- Intelligent Automation
+- Product Engineering
+
+---
+
+## Tech Stack
+
+- TypeScript
+- React
+- Next.js
+- Astro
+- Node.js
+- Python
+- OpenAI API
+- Docker
+- SQLite
+- Make.com
+
+---
+
+## Connect
+
+🌐 Personal Portfolio  
+https://apifnofal.com
+
+🏢 A-Tech Labs  
+https://atechlabs-web.vercel.app
+
+💼 LinkedIn  
+https://linkedin.com/in/apifnofal
