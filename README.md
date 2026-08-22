@@ -14,7 +14,7 @@ My current focus:
 
 - Building A-Tech Labs
 - Developing RantauFlow
-- Developing ORACLE AI
+- Scaling ORACLE AI (Enterprise-grade AI platform for dynamic cryptocurrency market analysis and real-time signal scanning)
 - AI Visibility (GEO)
 - AI Systems
 - Product Engineering
