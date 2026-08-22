@@ -2,7 +2,7 @@
 
 Founder of **A-Tech Labs**.
 
-Building AI Systems, AI Visibility & intelligent automation for modern businesses.
+Building Modern Frontend Development, AI Systems, AI Visibility & intelligent automation for modern businesses.
 
 ---
 
