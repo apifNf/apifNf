@@ -35,6 +35,7 @@ Expense management platform for Indonesian overseas workers.
 
 ## Current Focus
 
+- Frontend Devloper
 - AI Systems
 - AI Visibility
 - Generative Engine Optimization (GEO)
@@ -52,8 +53,9 @@ Expense management platform for Indonesian overseas workers.
 - Node.js
 - Python
 - OpenAI API
+- Meta API
 - Docker
-- SQLite
+- PostgreSQL 
 - Make.com
 
 ---
@@ -64,7 +66,7 @@ Expense management platform for Indonesian overseas workers.
 https://apifnofal.com
 
 🏢 A-Tech Labs  
-https://atechlabs-web.vercel.app
+https://atechlabs.dev
 
 💼 LinkedIn  
 https://linkedin.com/in/apifnofal
