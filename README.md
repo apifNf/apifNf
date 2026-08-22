@@ -29,7 +29,11 @@ AI business systems and automation tools for modern founders.
 
 ### RantauFlow
 
-Expense management platform for Indonesian overseas workers.
+Expense management platform for Bussines Oprational And Indonesian workers.
+
+### ORACLE AI Crypto Analyst
+
+Enterprise-grade AI platform for dynamic cryptocurrency market analysis and real-time signal scanning.
 
 ---
 
