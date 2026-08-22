@@ -14,6 +14,7 @@ My current focus:
 
 - Building A-Tech Labs
 - Developing RantauFlow
+- Developing ORACLE AI
 - AI Visibility (GEO)
 - AI Systems
 - Product Engineering
