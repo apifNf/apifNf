@@ -8,7 +8,7 @@ Building Modern Frontend Development, AI Systems, AI Visibility & intelligent au
 
 ## About
 
-I design and build AI-powered digital products, intelligent automation systems, and modern websites that help businesses grow through technology.
+I design and build Modern Frontend Development, AI-powered digital products, intelligent automation systems, and modern websites that help businesses grow through technology.
 
 My current focus:
 
